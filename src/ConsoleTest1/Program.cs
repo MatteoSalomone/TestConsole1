@@ -14,6 +14,10 @@ namespace ConsoleTest1
             muttley.Speak(2);
             
             muttley.Sleep();
+
+            // test da debuggare
+            CastingTest castTest = new CastingTest();
+            castTest.test();
         }
     }
 }

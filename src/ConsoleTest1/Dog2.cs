@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleTest1
 {
-    public partial class Dog
+    public partial class Dog : Animal
     {
         public void Sleep()
         {
